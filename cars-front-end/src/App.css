@@ -1,3 +1,23 @@
+
+img{
+  width: 500px;
+  height: 500px;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container{
+  border-style: solid;
+  width: 500px;
+  padding: 20px;
+  margin: 10px;
+}
+
+
+
 .App {
   text-align: center;
 }
